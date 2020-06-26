@@ -1,2 +1,5 @@
-# terraform-azure-app-services
-How to deploy an Azure App Service using Terraform
+# How to Deploy a Linux Azure App Service using Terraform
+
+This repo includes sample code to deploy Azure App Services Web App running Linux using HashiCorp Terraform.
+
+
